@@ -3,7 +3,8 @@
 ## program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa.
 
 ## flowchart 
-<img src="output/flowchart.png">
+<img width="792" height="952" alt="flowchart" src="https://github.com/user-attachments/assets/6b436e48-2003-45ac-b461-62f5ab2bfa60" />
+
 
 ## penjelasan flowchart
 - Alur Awal dan Loop: Program dimulai dan langsung masuk ke [Lingkaran] LOOP MENU UTAMA. Ini adalah perulangan tak terbatas (while True) yang memastikan program selalu siap menerima perintah.
