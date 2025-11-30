@@ -100,6 +100,5 @@ Seluruh logika program dijalankan melalui lima bagian utama:
 - Intinya, pemrograman ini menekankan pada penggunaan fungsi untuk membuat kode yang rapi, mudah dikelola, dan setiap fungsi hanya melakukan satu tugas (misalnya, tambah() hanya menambah, tidak menampilkan).
 
 ## output
-<img src="/output/output6.1.png">
-<img src="/output/output6.2.png">
-<img src="/output/output6.3.png">
+<img width="271" height="376" alt="contoh run" src="https://github.com/user-attachments/assets/366e10cb-126c-4ae3-b178-3cd2de20d15d" />
+
